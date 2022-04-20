@@ -1,6 +1,17 @@
 # Prerequisites
 *.d
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 
+*.sln
+*.dir/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.cmake
+
+        
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +41,4 @@
 *.exe
 *.out
 *.app
+
